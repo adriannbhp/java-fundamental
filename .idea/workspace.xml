@@ -5,14 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2ae56b3-6c92-4360-8285-0b8c0fd42db6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-dasar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Komentar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodReturnValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodVariableArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperasiBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperasiMatematika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperasiPerbandingan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TipeDataBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TipeDataBukanPrimitif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TipeDataChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TipeDataNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TipeDataString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,39 +55,92 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2IQw8dEqkDQFDI9kqQK1VQJA7em" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Block.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Break.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Continue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfStatment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Komentar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodParameter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReturnValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodVariableArguments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperasiBoolean.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperasiMatematika.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperasiPerbandingan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecursiveMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scope.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TipeDataBoolean.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TipeDataBukanPrimitif.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TipeDataChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TipeDataNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TipeDataString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+}</component>
+  <component name="RunManager" selected="Application.Komentar">
+    <configuration name="Komentar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Komentar" />
       <module name="java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variable" />
+    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodOverloading" />
+      <module name="java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodVariableArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodVariableArguments" />
+      <module name="java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveMethod" />
+      <module name="java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scope" />
       <module name="java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,10 +148,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Variable" />
+        <item itemvalue="Application.Komentar" />
+        <item itemvalue="Application.Scope" />
+        <item itemvalue="Application.RecursiveMethod" />
+        <item itemvalue="Application.MethodOverloading" />
+        <item itemvalue="Application.MethodVariableArguments" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-3183f394aec4-f0552fc0" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -92,6 +178,20 @@
       <workItem from="1677935922841" duration="6000" />
       <workItem from="1696943807502" duration="151000" />
       <workItem from="1696945702027" duration="645000" />
+      <workItem from="1713798097574" duration="4993000" />
+      <workItem from="1713832401288" duration="12878000" />
+      <workItem from="1713851076449" duration="12658000" />
+      <workItem from="1713879004251" duration="778000" />
+      <workItem from="1713883236782" duration="598000" />
+      <workItem from="1713926139290" duration="49000" />
+      <workItem from="1713966691857" duration="1168000" />
+      <workItem from="1713970595791" duration="72000" />
+      <workItem from="1713979363082" duration="684000" />
+      <workItem from="1714051144061" duration="1201000" />
+      <workItem from="1714173099147" duration="817000" />
+      <workItem from="1714260359927" duration="1801000" />
+      <workItem from="1714350238293" duration="655000" />
+      <workItem from="1714530762234" duration="891000" />
     </task>
     <servers />
   </component>
