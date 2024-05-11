@@ -13,10 +13,10 @@ public class MethodReturnValue {
 
         System.out.println("METHOD sum");
         // Method sum
-        var result1 = sum(100, 100);
-        System.out.println(result1);
+        var result1 = sum(100, 100); // Memanggil method sum dengan parameter
+        System.out.println(result1); // Mencetak hasil dari method sum
 
-        System.out.println(sum(200, 200));
+        System.out.println(sum(200, 200)); // Memanggil method sum dan mencetak hasil dari method sum
 
         System.out.println("METHOD hitung");
         // Method hitung

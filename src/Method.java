@@ -10,9 +10,11 @@ public class Method {
    - Di bahasa pemrograman lain, Method juga disebut dengan Function
 */
     public static void main(String[] args) {
+        // Memanggil Method
         sayHelloWorld();
     }
 
+    // Mmebuat Method
     static void sayHelloWorld(){
         System.out.println("Hello World1");
         System.out.println("Hello World2");

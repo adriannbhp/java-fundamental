@@ -5,37 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2ae56b3-6c92-4360-8285-0b8c0fd42db6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Komentar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodReturnValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodVariableArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperasiBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperasiMatematika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperasiPerbandingan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataBukanPrimitif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodReturnValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodReturnValue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,11 +78,11 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Komentar">
+  <component name="RunManager" selected="Application.MethodVariableArguments">
     <configuration name="Komentar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Komentar" />
       <module name="java-dasar" />
@@ -118,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodOverloading" />
+    <configuration name="MethodReturnValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodReturnValue" />
       <module name="java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -148,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodVariableArguments" />
+        <item itemvalue="Application.MethodReturnValue" />
         <item itemvalue="Application.Komentar" />
         <item itemvalue="Application.Scope" />
         <item itemvalue="Application.RecursiveMethod" />
-        <item itemvalue="Application.MethodOverloading" />
-        <item itemvalue="Application.MethodVariableArguments" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +164,9 @@
       <workItem from="1714260359927" duration="1801000" />
       <workItem from="1714350238293" duration="655000" />
       <workItem from="1714530762234" duration="891000" />
+      <workItem from="1715176986037" duration="3243000" />
+      <workItem from="1715219838371" duration="1279000" />
+      <workItem from="1715417724544" duration="835000" />
     </task>
     <servers />
   </component>
